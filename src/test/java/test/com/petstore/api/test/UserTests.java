@@ -8,12 +8,11 @@ import test.com.petstore.api.endpoints.EndPoints;
 import test.com.petstore.api.payload.User;
 
 public class UserTests {
-    User userPayload;
+    User userPayload = new User();
 
     @BeforeClass
     public void setUp()
     {
-        userPayload = new User();
         userPayload.setId(1);
         userPayload.setUsername("EmreUsl");
         userPayload.setFirstname("Emre");
