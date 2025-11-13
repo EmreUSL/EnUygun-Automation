@@ -6,8 +6,7 @@ This project is an automation framework for testing flight search functionalitie
 
 <img width="1146" height="463" alt="Screenshot 2025-11-13 at 22 04 51" src="https://github.com/user-attachments/assets/af922043-b234-481c-9168-99062b83bca9" />
 
-![Flight Automation](https://user-images.githubusercontent.com/placeholder/flight-banner.png)
-*Comprehensive solution for flight search and filtering automation.*
+
 
 ---
 
